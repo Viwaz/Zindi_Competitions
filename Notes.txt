@@ -1,0 +1,3 @@
+hypothesis:
+- certain features can determine whether an individual has a bank account or not.
+- this is a relatively small data set with only ten features, you can analyse the correlation between each feature and the target variable and then start adding on features to find the most relevant features.
